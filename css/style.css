@@ -147,7 +147,7 @@ p{
 
 .nav{width:100px; display:block;
 	background: #6495ED;border:1px #C0C0C0 solid;
-	border-radius:8px;-o-border-radius:8px;
+	border-radius:8px;
 	margin:10px 10px 10px 0; text-align: center;text-shadow:0 0.8px #006633;}
 .nav:link{color: #383838;text-decoration: none;}
 .nav:visited{color: #383838;text-decoration: none;}
